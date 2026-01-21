@@ -1,0 +1,5 @@
+{
+  "name": "ExamQ - Smart Assessment Reviewer",
+  "description": "An AI-powered academic instructor tool that verifies exam questions, answers, and Bloom's Taxonomy levels to ensure pedagogical accuracy and marking consistency.",
+  "requestFramePermissions": []
+}
