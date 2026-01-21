@@ -14,10 +14,7 @@ const Header: React.FC = () => {
             <p className="text-slate-500 text-sm">Automated Assessment Verification & Bloom's Taxonomy Review</p>
           </div>
         </div>
-        <div className="hidden sm:flex items-center gap-2 bg-slate-100 px-3 py-1.5 rounded-full border border-slate-200">
-          <div className="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></div>
-          
-        </div>
+       
       </div>
     </header>
   );
