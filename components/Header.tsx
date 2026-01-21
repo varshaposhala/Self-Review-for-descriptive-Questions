@@ -16,7 +16,7 @@ const Header: React.FC = () => {
         </div>
         <div className="hidden sm:flex items-center gap-2 bg-slate-100 px-3 py-1.5 rounded-full border border-slate-200">
           <div className="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></div>
-          <span className="text-[10px] font-bold text-slate-600 uppercase tracking-widest">Powered by Gemini 3 Pro</span>
+          
         </div>
       </div>
     </header>
